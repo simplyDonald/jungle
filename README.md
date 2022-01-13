@@ -40,4 +40,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 !["Screenshot of Order page"](https://github.com/simplyDonald/jungle/blob/master/docs/order_page.png)
 
-!["Screenshot of Stripe payment page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
+!["Stripe payment page"](https://github.com/simplyDonald/jungle/blob/master/docs/stripe_payment_modal.png)
+
+
