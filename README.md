@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 4.2.
 
 ## Additional Steps for Apple M1 Machines
 
@@ -31,3 +31,15 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Final Product
+
+!["Screenshot of homepage"](https://github.com/simplyDonald/tinyapp/blob/master/docs/urls_page.png)
+
+!["Screenshot page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Url_edit_page.png)
+
+!["Screenshot of Login page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
+
+!["Screenshot of Login page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
+
+!["Screenshot of Login page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
