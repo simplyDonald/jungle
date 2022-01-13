@@ -34,12 +34,12 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Final Product
 
-!["Screenshot of homepage"](https://github.com/simplyDonald/tinyapp/blob/master/docs/urls_page.png)
+!["Screenshot of homepage"](https://github.com/simplyDonald/jungle/blob/master/docs/jungle_homepage.png)
 
-!["Screenshot page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Url_edit_page.png)
-
-!["Screenshot of Login page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
+!["Cart item page"](https://github.com/simplyDonald/jungle/blob/master/docs/jungle_cart.png)
 
 !["Screenshot of Login page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
 
-!["Screenshot of Login page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
+!["Screenshot of Order page"](https://github.com/simplyDonald/jungle/blob/master/docs/order_page.png)
+
+!["Screenshot of Stripe payment page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
