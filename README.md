@@ -38,8 +38,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 !["Cart item page"](https://github.com/simplyDonald/jungle/blob/master/docs/jungle_cart.png)
 
-!["Screenshot of Login page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
-
 !["Screenshot of Order page"](https://github.com/simplyDonald/jungle/blob/master/docs/order_page.png)
 
 !["Screenshot of Stripe payment page"](https://github.com/simplyDonald/tinyapp/blob/master/docs/Loginpage.png)
